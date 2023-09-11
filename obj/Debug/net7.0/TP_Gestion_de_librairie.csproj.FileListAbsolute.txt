@@ -1,0 +1,17 @@
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/bin/Debug/net7.0/TP_Gestion_de_librairie
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/bin/Debug/net7.0/TP_Gestion_de_librairie.deps.json
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/bin/Debug/net7.0/TP_Gestion_de_librairie.runtimeconfig.json
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/bin/Debug/net7.0/TP_Gestion_de_librairie.dll
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/bin/Debug/net7.0/TP_Gestion_de_librairie.pdb
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/obj/Debug/net7.0/TP_Gestion_de_librairie.csproj.AssemblyReference.cache
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/obj/Debug/net7.0/TP_Gestion_de_librairie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/obj/Debug/net7.0/TP_Gestion_de_librairie.AssemblyInfoInputs.cache
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/obj/Debug/net7.0/TP_Gestion_de_librairie.AssemblyInfo.cs
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/obj/Debug/net7.0/TP_Gestion_de_librairie.csproj.CoreCompileInputs.cache
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/obj/Debug/net7.0/TP_Gestion_de_librairie.csproj.CopyComplete
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/obj/Debug/net7.0/TP_Gestion_de_librairie.dll
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/obj/Debug/net7.0/refint/TP_Gestion_de_librairie.dll
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/obj/Debug/net7.0/TP_Gestion_de_librairie.pdb
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/obj/Debug/net7.0/TP_Gestion_de_librairie.genruntimeconfig.cache
+/Users/antoine/Documents/IUT/BUT_3/Qualité_dév/TP_Gestion_de_librairie/TP_Gestion_de_librairie/obj/Debug/net7.0/ref/TP_Gestion_de_librairie.dll
