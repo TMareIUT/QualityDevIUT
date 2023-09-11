@@ -1,0 +1,17 @@
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\bin\Debug\net6.0\TD1 Qualite de Dev.exe
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\bin\Debug\net6.0\TD1 Qualite de Dev.deps.json
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\bin\Debug\net6.0\TD1 Qualite de Dev.runtimeconfig.json
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\bin\Debug\net6.0\TD1 Qualite de Dev.dll
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\bin\Debug\net6.0\TD1 Qualite de Dev.pdb
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\obj\Debug\net6.0\TD1 Qualite de Dev.csproj.AssemblyReference.cache
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\obj\Debug\net6.0\TD1 Qualite de Dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\obj\Debug\net6.0\TD1 Qualite de Dev.AssemblyInfoInputs.cache
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\obj\Debug\net6.0\TD1 Qualite de Dev.AssemblyInfo.cs
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\obj\Debug\net6.0\TD1 Qualite de Dev.csproj.CoreCompileInputs.cache
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\obj\Debug\net6.0\TD1 Qualite de Dev.csproj.CopyComplete
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\obj\Debug\net6.0\TD1 Qualite de Dev.dll
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\obj\Debug\net6.0\refint\TD1 Qualite de Dev.dll
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\obj\Debug\net6.0\TD1 Qualite de Dev.pdb
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\obj\Debug\net6.0\TD1 Qualite de Dev.genruntimeconfig.cache
+C:\Users\Nathan CHALARD\Documents\Qualité de Dev BUT 3\TD1 Qualite de Dev\TD1 Qualite de Dev\obj\Debug\net6.0\ref\TD1 Qualite de Dev.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "32qo6eN3HItNM5l7LD+hQsP8YECkfNq7PP+zmEAp1syi1bfnGisN1/dNPKYnSnOBcfjcapfI+Yssa6V2u+aLOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nathan CHALARD\\Documents\\Qualité de Dev BUT 3\\TD1 Qualite de Dev\\TD1 Qualite de Dev\\TD1 Qualite de Dev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan CHALARD\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

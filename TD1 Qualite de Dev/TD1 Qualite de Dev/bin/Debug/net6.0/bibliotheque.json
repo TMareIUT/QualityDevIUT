@@ -1,0 +1,57 @@
+{
+  "mediaCollection": [
+    {
+      "Title": "Livre 1",
+      "NumRef": 2,
+      "NbDispo": 0,
+      "NbMax": 1
+    },
+    {
+      "Title": "CD 1",
+      "NumRef": 3,
+      "NbDispo": 2,
+      "NbMax": 3
+    },
+    {
+      "Title": "DVD 1",
+      "NumRef": 4,
+      "NbDispo": 3,
+      "NbMax": 4
+    }
+  ],
+  "emprunts": [
+    {
+      "MediaEmprunte": {
+        "Title": "Livre 1",
+        "NumRef": 2,
+        "NbDispo": 0,
+        "NbMax": 1
+      },
+      "Utilisateur": "Utilisateur 1",
+      "DateEmprunt": "2023-09-11T17:36:41.533287+02:00",
+      "DateRetour": "2023-09-11T17:36:41.5516222+02:00"
+    },
+    {
+      "MediaEmprunte": {
+        "Title": "CD 1",
+        "NumRef": 3,
+        "NbDispo": 2,
+        "NbMax": 3
+      },
+      "Utilisateur": "Utilisateur 2",
+      "DateEmprunt": "2023-09-11T17:36:41.5509923+02:00",
+      "DateRetour": "2023-09-11T17:36:41.5516246+02:00"
+    },
+    {
+      "MediaEmprunte": {
+        "Title": "DVD 1",
+        "NumRef": 4,
+        "NbDispo": 3,
+        "NbMax": 4
+      },
+      "Utilisateur": "Utilisateur 3",
+      "DateEmprunt": "2023-09-11T17:36:41.5511258+02:00",
+      "DateRetour": "2023-09-11T17:36:41.551625+02:00"
+    }
+  ]
+}
