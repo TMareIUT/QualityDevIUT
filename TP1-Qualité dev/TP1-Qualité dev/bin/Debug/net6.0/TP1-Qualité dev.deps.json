@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TP1-Qualité dev/1.0.0": {
+        "runtime": {
+          "TP1-Qualité dev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP1-Qualité dev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
