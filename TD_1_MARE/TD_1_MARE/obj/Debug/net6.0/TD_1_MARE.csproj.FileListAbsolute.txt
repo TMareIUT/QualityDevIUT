@@ -1,0 +1,14 @@
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\bin\Debug\net6.0\TD_1_MARE.exe
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\bin\Debug\net6.0\TD_1_MARE.deps.json
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\bin\Debug\net6.0\TD_1_MARE.runtimeconfig.json
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\bin\Debug\net6.0\TD_1_MARE.dll
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\bin\Debug\net6.0\TD_1_MARE.pdb
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\TD_1_MARE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\TD_1_MARE.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\TD_1_MARE.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\TD_1_MARE.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\TD_1_MARE.dll
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\refint\TD_1_MARE.dll
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\TD_1_MARE.pdb
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\TD_1_MARE.genruntimeconfig.cache
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\ref\TD_1_MARE.dll

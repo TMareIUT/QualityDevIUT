@@ -1,0 +1,14 @@
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\bin\Debug\net6.0\DUPUIS_JAYSON_TD1.exe
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\bin\Debug\net6.0\DUPUIS_JAYSON_TD1.deps.json
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\bin\Debug\net6.0\DUPUIS_JAYSON_TD1.runtimeconfig.json
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\bin\Debug\net6.0\DUPUIS_JAYSON_TD1.dll
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\bin\Debug\net6.0\DUPUIS_JAYSON_TD1.pdb
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\DUPUIS_JAYSON_TD1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\DUPUIS_JAYSON_TD1.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\DUPUIS_JAYSON_TD1.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\DUPUIS_JAYSON_TD1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\DUPUIS_JAYSON_TD1.dll
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\refint\DUPUIS_JAYSON_TD1.dll
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\DUPUIS_JAYSON_TD1.pdb
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\DUPUIS_JAYSON_TD1.genruntimeconfig.cache
+C:\Users\kevin\OneDrive\Bureau\Jayson\Cours\MARE\TD1\TD_1_MARE\TD_1_MARE\obj\Debug\net6.0\ref\DUPUIS_JAYSON_TD1.dll
