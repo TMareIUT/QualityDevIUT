@@ -1,0 +1,15 @@
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/bin/Debug/net7.0/GaetanLittiere
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/bin/Debug/net7.0/GaetanLittiere.deps.json
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/bin/Debug/net7.0/GaetanLittiere.runtimeconfig.json
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/bin/Debug/net7.0/GaetanLittiere.dll
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/bin/Debug/net7.0/GaetanLittiere.pdb
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/obj/Debug/net7.0/GaetanLittiere.csproj.AssemblyReference.cache
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/obj/Debug/net7.0/GaetanLittiere.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/obj/Debug/net7.0/GaetanLittiere.AssemblyInfoInputs.cache
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/obj/Debug/net7.0/GaetanLittiere.AssemblyInfo.cs
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/obj/Debug/net7.0/GaetanLittiere.csproj.CoreCompileInputs.cache
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/obj/Debug/net7.0/GaetanLittiere.dll
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/obj/Debug/net7.0/refint/GaetanLittiere.dll
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/obj/Debug/net7.0/GaetanLittiere.pdb
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/obj/Debug/net7.0/GaetanLittiere.genruntimeconfig.cache
+/home/gaetan/but3/qualitedev/QualityDevIUT/GaetanLittiere/obj/Debug/net7.0/ref/GaetanLittiere.dll
