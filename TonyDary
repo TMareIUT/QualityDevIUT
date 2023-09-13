@@ -1,0 +1,119 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Gestion_biblio_media
+{
+    internal class Program
+    {
+        public class Media
+        {
+            /* Variables */
+            protected string Titre;
+            protected int NumRef;
+            protected int NbExempDispo;
+
+            /* Constructeurs */
+            public Media()
+            {
+                Titre = "Sans Titre";
+                NumRef = 0;
+                NbExempDispo = 0;
+            }
+
+            public Media(string titre, int numRef, int nbExempDispo)
+            {
+                Titre = titre;
+                NumRef = numRef;
+                NbExempDispo = nbExempDispo;
+            }
+
+            /* Polymorphisme */
+            public virtual void AfficherInfos()
+            {
+                Console.WriteLine("Titre : " + Titre + " Numéro de Référence : "
+                    + NumRef + " Nombre d'exemplaires disponibles : " + NbExempDispo);
+            }
+        }
+
+        public class Livre : Media
+        {
+            /* Variable */
+            private string Auteur;
+
+            /* Constructeurs */
+            public Livre(string titre, int numRef, int nbExempDispo, string auteur) : base(titre, numRef, nbExempDispo)
+            {
+                Auteur = auteur;
+            }
+
+            /* Polymorphisme */
+            public override void AfficherInfos()
+            {
+                base.AfficherInfos();
+                Console.WriteLine(" Auteur : " + Auteur);
+            }
+        }
+
+        public class DVD : Media
+        {
+            /* Variable */
+            private int Duree;
+
+            /* Constructeurs */
+            public DVD(string titre, int numRef, int nbExempDispo, int duree) : base(titre, numRef, nbExempDispo)
+            {
+                Duree = duree;
+            }
+
+            /* Polymorphisme */
+            public override void AfficherInfos()
+            {
+                base.AfficherInfos();
+                Console.WriteLine(" Durée : " + Duree);
+            }
+        }
+
+        public class CD : Media
+        {
+            /* Variable */
+            private string Artiste;
+
+            /* Constructeurs */
+            public CD(string titre, int numRef, int nbExempDispo, string artiste) : base(titre, numRef, nbExempDispo)
+            {
+                Artiste = artiste;
+            }
+
+            /* Polymorphisme */
+            public override void AfficherInfos()
+            {
+                base.AfficherInfos();
+                Console.WriteLine(" Artiste : " + Artiste);
+            }
+        }
+
+        public static class Tool operator +(){
+            
+        }
+
+        static void Main(string[] args)
+        {
+            var media = new Media("Média 1", 1, 10);
+            media.AfficherInfos();
+
+            var livre = new Livre("Livre 1", 4, 3, "Auteur 1");
+            livre.AfficherInfos();
+
+            var dvd = new DVD("DVD 1", 3, 8, 120);
+            dvd.AfficherInfos();
+
+            var cd = new CD("CD 1", 2, 5, "Artiste 1");
+            cd.AfficherInfos();
+
+            Console.ReadKey();
+        }
+    }
+}
