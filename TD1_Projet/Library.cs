@@ -1,14 +1,15 @@
-﻿using Newtonsoft.Json;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
+using System.Text.Json;
 
 namespace TD1_Projet
 {
+    [Serializable]
     public class Library
     {
+        // La bibliothèque contient plusieurs éléments. La totalité des media dont elle dispose ainsi que la liste des media qui ont été empruntés
         private List<Media> collectionMedia;
         private List<Emprunt> emprunts;
 
@@ -25,7 +26,7 @@ namespace TD1_Projet
             Console.WriteLine("Media ajouté\n");
         }
 
-        // Retirer un media de la bibliothèque
+        // Suppression d'un media de la bibliothèque
         public void RetirerMedia(Media media)
         {
             collectionMedia.Remove(media);
@@ -48,17 +49,17 @@ namespace TD1_Projet
             }
         }
 
-        // Retourner un media emprunté
+        // Retourner un media emprunté en faisant la liaison avec la liste des emprunts
         public bool RetournerMedia(Media media, string utilisateur)
         {
             // Vérification de l'emprunt du média
             foreach (var emprunt in emprunts)
             {
+                // Vérification de l'emprunt du media renseigné
                 if (emprunt.media == media && emprunt.utilisateur == utilisateur)
                 {
                     media.nombreExemplaires++;
 
-                    // Suppression de l'emprunt
                     emprunts.Remove(emprunt);
 
                     Console.WriteLine("Retour effectué");
@@ -70,14 +71,16 @@ namespace TD1_Projet
             return false;
         }
 
+
+        //Recherche un média selon plusieurs critères personnalisés
         public List<Media> RechercherMedias(string critere)
         {
-            critere = critere.ToLower(); // Convertir le critère en minuscules pour une recherche insensible à la casse
+            critere = critere.ToLower(); // Conversion des critères en minuscules pour une recherche insensible à la casse
             List<Media> resultatsRecherche = new List<Media>();
 
             foreach (var media in collectionMedia)
             {
-                // Recherche par titre ou auteur (ajoutez d'autres critères au besoin)
+                // On ajoute ici les critères de recherches
                 if (media.titre.ToLower().Contains(critere)
                     || (media.numeroReference.ToString().Contains(critere))
                     || (media is Livre livre && livre.auteur.ToLower().Contains(critere))
@@ -102,6 +105,7 @@ namespace TD1_Projet
             return resultatsRecherche;
         }
 
+        //Liste des medias empruntés par un utilisateur en renseignant ce dernier
         public void MediasEmpruntesParUtilisateur(string utilisateur)
         {
             List<Media> mediasEmpruntes = new List<Media>();
@@ -155,7 +159,7 @@ namespace TD1_Projet
 
 
 
-        //Indexeur
+        // Indexeur pour accéder à un élément de la bibliothèque grâce à son numéro de référence
         public Media this[int numeroReference]
         {
             get
@@ -191,36 +195,19 @@ namespace TD1_Projet
             return library;
         }
 
-
-        /*
-        // Sauvegarder l'état de la bibliothèque dans un fichier JSON
+        // Méthode pour sauvegarder la bibliothèque dans un fichier JSON
         public void SauvegarderBibliothèque(string cheminFichier)
         {
-            var libraryState = new LibraryState
-            {
-                CollectionMedia = collectionMedia,
-                Emprunts = emprunts
-            };
+            string Json = JsonSerializer.Serialize(this);
+            File.WriteAllText(cheminFichier, Json);
 
-            string json = JsonConvert.SerializeObject(libraryState, Formatting.Indented);
-            File.WriteAllText(cheminFichier, json);
         }
 
-        // Charger la bibliothèque à partir d'un fichier JSON
-        public void ChargerBibliothèque(string cheminFichier)
+        // Méthode pour charger la bibliothèque à partir d'un fichier JSON
+        public static Library? ChargerBibliothèque(string cheminFichier)
         {
-            if (File.Exists(cheminFichier))
-            {
-                string json = File.ReadAllText(cheminFichier);
-                var libraryState = JsonConvert.DeserializeObject<LibraryState>(json);
-
-                collectionMedia = libraryState.CollectionMedia;
-                emprunts = libraryState.Emprunts;
-            }
-            else
-            {
-                Console.WriteLine("Le fichier de sauvegarde n'existe pas.");
-            }
-        }*/
+            string Json = File.ReadAllText(cheminFichier);
+            return JsonSerializer.Deserialize<Library>(Json);
+        }
     }
 }
