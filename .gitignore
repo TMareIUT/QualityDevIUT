@@ -1,0 +1,10 @@
+# Ignorer les fichiers et dossiers liés à Visual Studio
+.vs/
+*.user
+*.suo
+*.vscode
+*.log
+
+# Ignorer les dossiers binaires et de compilation
+bin/
+obj/
