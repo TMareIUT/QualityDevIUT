@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cYfa/L/DIAmbG6fBtaW+QznoIm40+E963KlokIchs/IZRrqndjnkjN7ru7GiMwhuoUrIRA35oqOy2iRtiXNbsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZSPT6993\\source\\repos\\MyLibrary\\MyLibraryTMA\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZSPT6993\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
