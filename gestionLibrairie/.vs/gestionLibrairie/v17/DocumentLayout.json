@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enzod\\Desktop\\IUT\\Ann\u00E9e 3\\Semestre 1\\R5.08 - Qualit\u00E9 D\u00E9v\\gestionLibrairie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{557B9794-B431-481D-AF7A-BC80E357E2F2}|gestionLibrairie.csproj|c:\\users\\enzod\\desktop\\iut\\ann\u00E9e 3\\semestre 1\\r5.08 - qualit\u00E9 d\u00E9v\\gestionlibrairie\\emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557B9794-B431-481D-AF7A-BC80E357E2F2}|gestionLibrairie.csproj|solutionrelative:emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557B9794-B431-481D-AF7A-BC80E357E2F2}|gestionLibrairie.csproj|c:\\users\\enzod\\desktop\\iut\\ann\u00E9e 3\\semestre 1\\r5.08 - qualit\u00E9 d\u00E9v\\gestionlibrairie\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557B9794-B431-481D-AF7A-BC80E357E2F2}|gestionLibrairie.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557B9794-B431-481D-AF7A-BC80E357E2F2}|gestionLibrairie.csproj|c:\\users\\enzod\\desktop\\iut\\ann\u00E9e 3\\semestre 1\\r5.08 - qualit\u00E9 d\u00E9v\\gestionlibrairie\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557B9794-B431-481D-AF7A-BC80E357E2F2}|gestionLibrairie.csproj|solutionrelative:media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557B9794-B431-481D-AF7A-BC80E357E2F2}|gestionLibrairie.csproj|c:\\users\\enzod\\desktop\\iut\\ann\u00E9e 3\\semestre 1\\r5.08 - qualit\u00E9 d\u00E9v\\gestionlibrairie\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557B9794-B431-481D-AF7A-BC80E357E2F2}|gestionLibrairie.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557B9794-B431-481D-AF7A-BC80E357E2F2}|gestionLibrairie.csproj|c:\\users\\enzod\\desktop\\iut\\ann\u00E9e 3\\semestre 1\\r5.08 - qualit\u00E9 d\u00E9v\\gestionlibrairie\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557B9794-B431-481D-AF7A-BC80E357E2F2}|gestionLibrairie.csproj|solutionrelative:cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557B9794-B431-481D-AF7A-BC80E357E2F2}|gestionLibrairie.csproj|c:\\users\\enzod\\desktop\\iut\\ann\u00E9e 3\\semestre 1\\r5.08 - qualit\u00E9 d\u00E9v\\gestionlibrairie\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557B9794-B431-481D-AF7A-BC80E357E2F2}|gestionLibrairie.csproj|solutionrelative:dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Emprunt.cs",
+              "DocumentMoniker": "C:\\Users\\enzod\\Desktop\\IUT\\Ann\u00E9e 3\\Semestre 1\\R5.08 - Qualit\u00E9 D\u00E9v\\gestionLibrairie\\Emprunt.cs",
+              "RelativeDocumentMoniker": "Emprunt.cs",
+              "ToolTip": "C:\\Users\\enzod\\Desktop\\IUT\\Ann\u00E9e 3\\Semestre 1\\R5.08 - Qualit\u00E9 D\u00E9v\\gestionLibrairie\\Emprunt.cs",
+              "RelativeToolTip": "Emprunt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:00:38.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\enzod\\Desktop\\IUT\\Ann\u00E9e 3\\Semestre 1\\R5.08 - Qualit\u00E9 D\u00E9v\\gestionLibrairie\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\enzod\\Desktop\\IUT\\Ann\u00E9e 3\\Semestre 1\\R5.08 - Qualit\u00E9 D\u00E9v\\gestionLibrairie\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:28:54.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\enzod\\Desktop\\IUT\\Ann\u00E9e 3\\Semestre 1\\R5.08 - Qualit\u00E9 D\u00E9v\\gestionLibrairie\\Media.cs",
+              "RelativeDocumentMoniker": "Media.cs",
+              "ToolTip": "C:\\Users\\enzod\\Desktop\\IUT\\Ann\u00E9e 3\\Semestre 1\\R5.08 - Qualit\u00E9 D\u00E9v\\gestionLibrairie\\Media.cs",
+              "RelativeToolTip": "Media.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:23:36.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\enzod\\Desktop\\IUT\\Ann\u00E9e 3\\Semestre 1\\R5.08 - Qualit\u00E9 D\u00E9v\\gestionLibrairie\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\enzod\\Desktop\\IUT\\Ann\u00E9e 3\\Semestre 1\\R5.08 - Qualit\u00E9 D\u00E9v\\gestionLibrairie\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:25:41.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\enzod\\Desktop\\IUT\\Ann\u00E9e 3\\Semestre 1\\R5.08 - Qualit\u00E9 D\u00E9v\\gestionLibrairie\\DVD.cs",
+              "RelativeDocumentMoniker": "DVD.cs",
+              "ToolTip": "C:\\Users\\enzod\\Desktop\\IUT\\Ann\u00E9e 3\\Semestre 1\\R5.08 - Qualit\u00E9 D\u00E9v\\gestionLibrairie\\DVD.cs",
+              "RelativeToolTip": "DVD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:26:13.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CD.cs",
+              "DocumentMoniker": "C:\\Users\\enzod\\Desktop\\IUT\\Ann\u00E9e 3\\Semestre 1\\R5.08 - Qualit\u00E9 D\u00E9v\\gestionLibrairie\\CD.cs",
+              "RelativeDocumentMoniker": "CD.cs",
+              "ToolTip": "C:\\Users\\enzod\\Desktop\\IUT\\Ann\u00E9e 3\\Semestre 1\\R5.08 - Qualit\u00E9 D\u00E9v\\gestionLibrairie\\CD.cs",
+              "RelativeToolTip": "CD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:27:04.868Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
